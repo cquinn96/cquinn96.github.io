@@ -4,7 +4,7 @@
  <title>Cormac Quinn</title>
  <link href="http://cquinn96.github.io/atom.xml" rel="self"/>
  <link href="http://cquinn96.github.io/"/>
- <updated>2014-09-12T13:52:49+08:00</updated>
+ <updated>2014-09-12T14:42:10+08:00</updated>
  <id>http://cquinn96.github.io</id>
  <author>
    <name>Cormac Quinn</name>
@@ -13,210 +13,77 @@
 
  
  <entry>
-   <title>Introducing Poole</title>
-   <link href="http://cquinn96.github.io//2014/01/02/introducing-poole/"/>
-   <updated>2014-01-02T00:00:00+08:00</updated>
-   <id>http://cquinn96.github.io/2014/01/02/introducing-poole</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&amp;#39;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&amp;#39;s loyal butler.&lt;/p&gt;
+   <title>First Week of Work</title>
+   <link href="http://cquinn96.github.io//2014/07/01/first-week-of-work/"/>
+   <updated>2014-07-01T00:00:00+08:00</updated>
+   <id>http://cquinn96.github.io/2014/07/01/first-week-of-work</id>
+   <content type="html">&lt;p&gt;So I’ve just completed my first working week in China. On our first day, the fellow interns and I met the CRCC program coordinators early in the morning who escorted us to each of our respective companies. I didn’t know what to expect, although I’ve done a few different internships before so I wasn’t too nervous this time thankfully. I’m interning with fellow Irishman which I think helped too. We met our supervisor, Patricia, who was very friendly and invited us to introduce ourselves to the whole office. We then sat down at our desks and got an overview of the project and the company itself. Patricia speaks English quite good, but most of the other workers there do not, although everyone was very nice and welcoming.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Office-1-300x168.jpg&quot; alt=&quot;my-office&quot; title=&quot;My office&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It&amp;#39;s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
+&lt;p&gt;My first impressions were generally quite positive. The project that I was assigned to looked very interesting, and although the team had already done quite a lot of work on it, there was still some way to go until it would be finished. It’s a web based tablet application that handles factory inspections for a large inspection company in Asia. I was excited to set up my development environment and get stuck into the development, but first I needed to read the documentation and understand the fairly complex system which took up most of the week.&lt;/p&gt;
 
-&lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
+&lt;p&gt;On our first day we were brought to McDonalds for lunch which I was a bit surprised by, if a Chinese person was visiting Ireland for the first time I don’t think the first place I would bring them is a McDonalds or an authentic Chinese restaurant – they can get that in China! I would have them eating an Irish fry up. My supervisor paid for the meal which was very kind of her. On the Lunch at Worksecond day our coworkers invited us to have lunch with them in the canteen, of course I said yes, jumping at the opportunity to have some nice authentic Chinese food. Unfortunately it was bland, and overall wasn’t anything to get excited about. I really struggled to get the fishbones out with just chopsticks. Our coworkers told us that this was just cheap plain food, and even they don’t really like it themselves. They also didn’t sell water in the canteen because it’s apparently bad for your stomach to mix so much boiled rice with water… who knew? I’ll have to trust the Chinese on that one. By day 4 I was dreaming of that McDonalds again, and on day 5 the other intern and I and I caved and went and got a cheeseburger meal. I felt so ashamed, and so I said I would go on the hunt for a good Chinese restaurant nearby next week. Another thing that I didn’t know about before joining my company is that they allow just over 2 hours for lunch, which was completely new to me as I was used to 30-45 minutes or so back home. The reason they get so long is that most of the workers take a nap at their desks straight after eating, and so the first time I came back after lunch and seen the lights off, I was slightly confused. I haven’t joined them in napping yet, but there’s still time!&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;Lanyon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/08/Lunch-at-Work-300x168.jpg&quot; alt=&quot;Lunch at work&quot; title=&quot;Lunch at work&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/poole&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;What&amp;#39;s included&lt;/h3&gt;
-
-&lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Additional features are available in individual themes.&lt;/p&gt;
-
-&lt;h3&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Poole and it&amp;#39;s themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Poole is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;I’ve organised a trip to XiChong beach for this weekend with a few other interns, and I’m really looking forward to it. I’ve seen pictures and heard about the overcrowding at Chinese beaches so I choose a beach far away, hopefully it pays off…&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Example content</title>
-   <link href="http://cquinn96.github.io//2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00+08:00</updated>
-   <id>http://cquinn96.github.io/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
+   <title>Induction Day and First Weekend in China</title>
+   <link href="http://cquinn96.github.io//2014/06/28/induction-day-first-weekend/"/>
+   <updated>2014-06-28T00:00:00+08:00</updated>
+   <id>http://cquinn96.github.io/2014/06/28/induction-day-first-weekend</id>
+   <content type="html">&lt;p&gt;I managed to get up on time for the CRCC induction day… although I don’t know how. We were taxied to a hotel in downtown Shenzhen, where we had our first Chinese breakfast. I can’t say that I overly enjoyed it, but I was too hungry to care. It consisted of dumplings and noodles along with hot water to wash it down. Oh and of course chopsticks. Now, don’t get me wrong, I’m a big fan of noodles but for breakfast it wouldn’t be my first choice.&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/08/Business-Card-300x168.jpg&quot; alt=&quot;My buisness card&quot; title=&quot;My business card&quot;&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;This was the first time I had tried dumplings though and they were very good. We barely had time to finish before we were whisked upstairs and were formally introduced to the CRCC Asia team. They all were very friendly and seemed really helpful. We introduced ourselves one by one (there was about 30 interns) and were given our Chinese business cards and were taught how to give/receive them in China (you give your card with 2 hands with the card facing up, and when you are receiving, you accept the card with 2 hands again and you don’t put it away straight away; you should read it, and ask questions based on it).&lt;/p&gt;
 
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+&lt;p&gt;We were also taught the meaning of guanxi (关系), which is a Chinese concept. It loosely translates to relationships or connections, but it means so much more in Chinese culture, especially in the Chinese world of business, which is built on guanxi.&lt;/p&gt;
 
-&lt;h2&gt;Inline HTML elements&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/07/Chinese-English-300x168.jpg&quot; alt=&quot;Chinese-English&quot; title=&quot;Chinese-English; A sign in the lift of my apartment.&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Another word we learned was miànzi (面子), which is the Chinese idea of ‘face’. Say for example, you got angry and started shouting on the street you would lose face, or if you paid for everyone’s meal you would gain face. Another way of putting it is that miànzi represents social perceptions of a person’s prestige. I think this is a great concept that I feel isn’t used enough in Western culture.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;We were then taught some beginner Mandarin phrases to help us get by until Monday (our first full Chinese lesson), which I really enjoyed. I learnt how to say 1-99 and a couple of other phrases. Now you might think, learning 1-99 is a lot for a 30 minute beginner lesson but not with Chinese. You see, once you can say 1-9 you can reuse these numbers to form any number up to 99. So for 56 you would say wǔ (5) shí (10) liù (6). Simple. Then once you know the word for 100 you can say up to 999 and so on. I think this is an excellent numbering system.&lt;/p&gt;
 
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/08/All-of-the-interns-300x225.jpg&quot; alt=&quot;The gang&quot; title=&quot;Our intern group&quot;&gt;&lt;/p&gt;
 
-&lt;h2&gt;Heading&lt;/h2&gt;
+&lt;p&gt;That evening we had our official welcome dinner, which consisted of… food, I think. I still wasn’t used to the dishes coming out one by one, and we would demolish one plate of some kind of meat or vegetables and have to wait 5 minutes for the next. But we ordered a couple of beers and got to know each other a bit better. After the meal, we went out to the bar/nightclub part of the city. It was quite different from what I was expecting, the reason being is that it was very western (we went to the western bar and club area of Shenzhen known as Coco Park). We split up as no one really knew where to go or how to keep in touch with the rest so our group went to the Irish bar, McCawley’s. I was excited when I seen where we were going, but in the end was a bit disappointed by the bar. Firstly I was the only Irish person in sight (in a city of 13 million people I was a bit surprised), but then I found out why; A pint was roughly £5.50. I almost have cried. But we stayed for a few, and had ended up having a great night out. I slept until about 3pm the next day (I’m going to blame the jet-lag for this, not the alcohol) and when I got up, found out that the plan was to go to a pool in the Venice Hotel, which is a very swanky hotel in the middle of Shenzhen. We got there expecting to pay an entrance fee but there didn’t seem to be one and the staff didn’t mention anything, and we had the huge pool all to ourselves. Fantastic.&lt;/p&gt;
 
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+&lt;p&gt;The next day a group of us decided to go to Shenzhen zoo. It was quite expensive (£20), but I made the most out of it… I had a snake around my neck, I rode an elephant and I fed crocodiles some meat. We also got a chance to go out in the lake. The most disappointing thing though, was that one of the lions looked severely malnourished. To the point where I couldn’t believe that they would let this happen in a zoo and so we just left soon after. We got taxi’s back to the apartment and I slept like a baby as soon as I got in the door.&lt;/p&gt;
 
-&lt;h3&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3&gt;Gists via GitHub Pages&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;
-
-&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
-
-&lt;h3&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3&gt;Images&lt;/h3&gt;
-
-&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot;&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot;&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot;&gt;&lt;/p&gt;
-
-&lt;h3&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So that was my first weekend in China, so far so good. I start work on tomorrow (Monday) morning so I’ll be sure to make a post about my first week working here.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://cquinn96.github.io//2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00+08:00</updated>
-   <id>http://cquinn96.github.io/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>Moving to China</title>
+   <link href="http://cquinn96.github.io//2014/06/26/moving-to-china/"/>
+   <updated>2014-06-26T00:00:00+08:00</updated>
+   <id>http://cquinn96.github.io/2014/06/26/moving-to-china</id>
+   <content type="html">&lt;p&gt;Hi there! As a bit of background to this post, I was offered 2 internships for this summer. One was based in the USA and the other was in China. Now this was an extremely tough decision for me to have to make. I’ve always wanted to visit/live in the US and now I was offered a paid internship, with accommodation and flights included. I’d never even thought about living in China before, but having this offer for an internship piqued my interest. After doing some more research and a lot of deliberating (ask my girlfriend, she’ll certainly tell you) I settled on China. Why? I don’t have a definitive answer. But the company that I will be interning with, seemed to have quite a good reputation in the IT sector. I also thought that I would more than likely never have the chance to live in China so easily again in my life, so why not? I got started on some Pimsleur’s beginner Mandarin lessons right away.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A few months later and I finished my placement year in Belfast, and the time had come to leave for China. I’d bought everything I needed and researched where I was going countless times but I still couldn’t believe it was happening, right up to the night before I was due to leave.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/08/Me-at-Dublin-Airport-300x168.jpg&quot; alt=&quot;Me at Dublin airport&quot; title=&quot;Me at Dublin airport&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The internship program is run by CRCC Asia. Normally students have to pay to get onto the program, which includes accommodation, business seminars and cultural events, etc. but I was awarded a fully funded scholarship by the government. The internship lasts 2 months and is based in Shenzhen, China. On top of this, CRCC Asia offered me the chance to take part in The Dragon Trip, which is a 20 day tour of China and includes stops at cities like Xi’an to see the Terracotta Warriors and Beijing to camp out on the Great Wall of China for a night and much more… so I of course jumped at the opportunity. It cost me a pretty penny, but I didn’t know when I would have the chance to do something like this again. Also we are going to see pandas!&lt;/p&gt;
+
+&lt;p&gt;I flew with Emirates from Dublin to Hong Kong, with a 3 hour layover in Dubai which broke up the journey nicely. The flight took about 20 hours. I then took the ferry from Hong Kong airport to Shekou ferry terminal in Shenzhen where I met our program coordinators, which took about 1 hour and then we all crammed into a mini van and made our way to our apartments. All in all, the total journey time was roughly 24 hours. I slept for about 3 hours of that, so I was very, very tired.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/07/Apartment-300x168.jpg&quot; alt=&quot;My apartment&quot; title=&quot;My apartment&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We arrived at the apartment at about 6pm and were told that we would have an informal dinner at 7. Most of us hurried up to our rooms and had a quick shower before meeting back in the lobby at 6.45. Still exhausted but excited, I went for my first Chinese meal. We walked to a nearby shopping mall and had a table waiting for us. The food was strange, but nice. This probably wasn’t the best time for me to start learning how to use chopsticks, although I had no choice otherwise I wasn’t going to be eating! It’s Chinese custom for one person, usually the most senior, to order food for everyone and it will be placed in the middle of the table and shared (everyone uses chopsticks to fill their own plates). Something which I found even more peculiar was that the noodles and rice come last, once you’ve finished your meat and veg. I found out that the reason for this is becaFirst Supperuse restaurants want to give you the best food first, and they consider rice and noodles ‘filler food’. What’s Chinese for ‘bring everything out all at once’?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cormacquinn.com/wp-content/uploads/2014/07/First-Meal-300x168.jpg&quot; alt=&quot;Intern dinner&quot; title=&quot;First meal in China&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;After the meal we all went back to our apartments. I got into bed almost immediately as I was still completely exhausted from the journey and I had to be up at 7am to go to our induction the following day. I still could hardly believe that I was in China.&lt;/p&gt;
+
+&lt;p&gt;Anyway, heres to 3 months of adventure!&lt;/p&gt;
 </content>
  </entry>
  
