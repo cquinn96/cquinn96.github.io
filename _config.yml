@@ -7,16 +7,18 @@ permalink:        pretty
 
 # Setup
 title:            Cormac Quinn
-tagline:          A Personal Blog
+tagline:          Adventurer, Software Engineer and Tech Enthuast
 url:              http://cquinn96.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Cormac Quinn
+  url:            https://twitter.com/cquinn96
 
 # Custom vars
 version:          1.0.0
+
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/cquinn96/cquinn96.github.io
+
+pages_list:       {'About':'/about','Archive':'/archive'}
