@@ -14,3 +14,7 @@ I have a passion for all things technology related. I also love to travel and me
 Feel free to contact me on twitter [@cquinn96](https://twitter.com/cquinn96).
 
 Thanks for reading!
+
+Foundation by [Poole](https://github.com/poole/poole).
+<br/>
+Powered by [Jekyll](http://jekyllrb.com/).
