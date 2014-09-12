@@ -440,3 +440,23 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.sociallinkscontainer {
+  display: inline;
+  padding-left: 100px;
+text-align: center;
+margin: 0 auto;
+}
+
+/*
+.sociallink {
+webkit-transition: opacity .4s ease-out;
+transition: opacity .4s ease-out;
+border: none;
+margin: 1%;
+}
+
+.sociallink svg {
+height: 2.75em;
+width: 2.75em;
+}*/
