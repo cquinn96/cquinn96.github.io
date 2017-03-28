@@ -14,9 +14,17 @@ The map:
 In red are the hotels which are currently sold out.
 In blue is the hotels that are still up for grabs.
 
+If you press the icon on the top left of the map, you can select/deselect which categories you want to see on the map (Remaining/Sold Out). In that pane you can also view a list of the hotels in each catorgory and click on them to bring you to it's location. There is also a buttion to view the map full screen.
 
 I will try and keep this updated regularrly (more often when a new list has been released).
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74" width="940" height="480"></iframe>
+
+
+
+
+
 I have no ads on this site so if you found this map helpful feel free to buy me a beer :)
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74" width="640" height="480"></iframe>
+https://www.paypal.me/CormacQ
+https://monzo.me/cormacquinn
