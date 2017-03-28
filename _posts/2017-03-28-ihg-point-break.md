@@ -22,7 +22,7 @@ Just because a hotel was available in this Point Break list, doesn't mean it wil
 I don't make any money from this website so if you found this map useful feel free to buy me a beer :)
 
 <a href="https://www.paypal.me/CormacQ">PayPal.me</a>
-
+<br/>
 <a href="https://monzo.me/cormacquinn">Monzo.me</a>
 
 
