@@ -16,13 +16,13 @@ If you click the icon on the top left of the map, you can select/deselect which 
 
 I will try and keep this updated regularrly (more often when a new list has been released).
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74" width="740" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74" width="720" height="480"></iframe>
 
 
 
-
-
+<br/>
 I have no ads on this site so if you found this map helpful feel free to buy me a beer :)
 
 https://www.paypal.me/CormacQ
+
 https://monzo.me/cormacquinn
