@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Moving to China
+title: IHG Point Break Map
 ---
 
-Hi there! As a bit of background to this post, I was offered 2 internships for this summer. One was based in the USA and the other was in China. Now this was an extremely tough decision for me to have to make. I’ve always wanted to visit/live in the US and now I was offered a paid internship, with accommodation and flights included. I’d never even thought about living in China before, but having this offer for an internship piqued my interest. After doing some more research and a lot of deliberating (ask my girlfriend, she’ll certainly tell you) I settled on China. Why? I don’t have a definitive answer. But the company that I will be interning with, seemed to have quite a good reputation in the IT sector. I also thought that I would more than likely never have the chance to live in China so easily again in my life, so why not? I got started on some Pimsleur’s beginner Mandarin lessons right away.
+Hi there! This is an IHG point break map
+
+As a bit of background to this post, I was offered 2 internships for this summer. One was based in the USA and the other was in China. Now this was an extremely tough decision for me to have to make. I’ve always wanted to visit/live in the US and now I was offered a paid internship, with accommodation and flights included. I’d never even thought about living in China before, but having this offer for an internship piqued my interest. After doing some more research and a lot of deliberating (ask my girlfriend, she’ll certainly tell you) I settled on China. Why? I don’t have a definitive answer. But the company that I will be interning with, seemed to have quite a good reputation in the IT sector. I also thought that I would more than likely never have the chance to live in China so easily again in my life, so why not? I got started on some Pimsleur’s beginner Mandarin lessons right away.
 
 A few months later and I finished my placement year in Belfast, and the time had come to leave for China. ![float-right](/images/Me-at-Dublin-Airport-300x168.jpg "Me at Dublin airport") I’d bought everything I needed and researched where I was going countless times but I still couldn’t believe it was happening, right up to the night before I was due to leave.
 
