@@ -4,7 +4,7 @@
  <title>Cormac Quinn</title>
  <link href="http://cquinn96.github.io/atom.xml" rel="self"/>
  <link href="http://cquinn96.github.io/"/>
- <updated>2017-03-28T23:19:03+01:00</updated>
+ <updated>2017-03-28T23:22:35+01:00</updated>
  <id>http://cquinn96.github.io</id>
  <author>
    <name>Cormac Quinn</name>
@@ -34,11 +34,12 @@ Red Icon = Unavailable.&lt;/p&gt;
 
 &lt;p&gt;Technical details:&lt;/p&gt;
 
-&lt;p&gt;I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable set. Any time an update is needed to the data, I can run the script again and upload the output files.&lt;/p&gt;
+&lt;p&gt;I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable ones. Any time an update is required, I can run the script again and upload the output files.&lt;/p&gt;
 
-&lt;p&gt;Future improvements include adding the hotel URL to each marker and possibly automating all manual work (although that may be overkill since the data doesnt update that frequently).&lt;/p&gt;
+&lt;p&gt;Future improvements include adding the hotel URL to each marker and possibly automating all manual work (although that may be overkill since the data isn&amp;#39;t updated &lt;em&gt;that&lt;/em&gt; frequently).&lt;/p&gt;
 
 &lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;
 I don&amp;#39;t make any money from this website so if you found this map useful feel free to buy me a beer :)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.paypal.me/CormacQ&quot;&gt;PayPal.me&lt;/a&gt;
