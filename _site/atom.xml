@@ -4,7 +4,7 @@
  <title>Cormac Quinn</title>
  <link href="http://cquinn96.github.io/atom.xml" rel="self"/>
  <link href="http://cquinn96.github.io/"/>
- <updated>2017-03-28T23:15:55+01:00</updated>
+ <updated>2017-03-28T23:19:03+01:00</updated>
  <id>http://cquinn96.github.io</id>
  <author>
    <name>Cormac Quinn</name>
@@ -17,20 +17,26 @@
    <link href="http://cquinn96.github.io//2017/03/28/ihg-point-break/"/>
    <updated>2017-03-28T00:00:00+01:00</updated>
    <id>http://cquinn96.github.io/2017/03/28/ihg-point-break</id>
-   <content type="html">&lt;p&gt;Most of you reading this probably know what &lt;a href=&quot;https://www.ihg.com/rewardsclub/content/gb/en/redeem-rewards/pointbreaks&quot;&gt;IHG point breaks&lt;/a&gt; are, but for those who don&amp;#39;t it&amp;#39;s when &lt;a href=&quot;https://www.ihg.com/&quot;&gt;IHG&lt;/a&gt; reduce certain hotel point redemptions to 5,000 per night in select hotels around the world.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Most of you reading this probably know what &lt;a href=&quot;https://www.ihg.com/rewardsclub/content/gb/en/redeem-rewards/pointbreaks&quot;&gt;IHG point breaks&lt;/a&gt; are, but for those who don&amp;#39;t, it&amp;#39;s when &lt;a href=&quot;https://www.ihg.com/&quot;&gt;IHG&lt;/a&gt; reduce hotel point redemptions to 5,000 per night in select hotels around the world.&lt;/p&gt;
 
 &lt;p&gt;This can mean a saving of over 20,000 points on some hotels per night which is amazing! However, I&amp;#39;ve always found it quite tricky to spot the hotels I&amp;#39;m interested in when IHG release the (fairly long) list of hotels every few months. So I decided to create a map of these hotels which will help me, and hopefully some of you, to plan trips. For those interested in the technical details see below the map.&lt;/p&gt;
+
+&lt;p&gt;Blue Icon = Still up for grabs.
+Red Icon = Unavailable.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74&quot; width=&quot;720&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;If you click the icon on the top left of the map, you can select/deselect which categories you want to see (Remaining/Sold Out). In that pane you can also view a list of the hotels in each catorgory and click on them to bring you to it&amp;#39;s location. There is also a buttion to view the map full screen.&lt;/p&gt;
 
 &lt;p&gt;I will try and keep this map updated regularly (more often when a new list has been released).&lt;/p&gt;
 
-&lt;p&gt;Blue Icon = Still up for grabs.
-Red Icon = Unavailable.&lt;/p&gt;
+&lt;p&gt;Just because a hotel was available in the current Point Break list, doesn&amp;#39;t mean it will be available next time, but it&amp;#39;s a good indication what hotels might show up which is why I have included the unavailable hotels on the map too too.&lt;/p&gt;
 
-&lt;p&gt;Just because a hotel was available in this Point Break list, doesn&amp;#39;t mean it will be available next time, but it&amp;#39;s a good indication what hotels might show up which is why I have included the unavailable hotels on the map too too.&lt;/p&gt;
+&lt;p&gt;Technical details:&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74&quot; width=&quot;720&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable set. Any time an update is needed to the data, I can run the script again and upload the output files.&lt;/p&gt;
+
+&lt;p&gt;Future improvements include adding the hotel URL to each marker and possibly automating all manual work (although that may be overkill since the data doesnt update that frequently).&lt;/p&gt;
 
 &lt;p&gt;&lt;br/&gt;
 I don&amp;#39;t make any money from this website so if you found this map useful feel free to buy me a beer :)&lt;/p&gt;
@@ -38,12 +44,6 @@ I don&amp;#39;t make any money from this website so if you found this map useful
 &lt;p&gt;&lt;a href=&quot;https://www.paypal.me/CormacQ&quot;&gt;PayPal.me&lt;/a&gt;
 &lt;br/&gt;
 &lt;a href=&quot;https://monzo.me/cormacquinn&quot;&gt;Monzo.me&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Technical details:&lt;/p&gt;
-
-&lt;p&gt;I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable set. Any time an update is needed to the data, I can run the script again and upload the output files.&lt;/p&gt;
-
-&lt;p&gt;Future improvements include adding the hotel URL to each marker and possibly automating all manual work (although that may be overkill since the data doesnt update that frequently).&lt;/p&gt;
 </content>
  </entry>
  
