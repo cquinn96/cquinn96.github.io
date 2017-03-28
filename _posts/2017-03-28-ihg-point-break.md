@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IHG Point Break Map
+title: IHG Point Break Hotel Map
 ---
 
 Hey folks
