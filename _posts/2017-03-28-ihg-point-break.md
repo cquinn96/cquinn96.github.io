@@ -19,5 +19,4 @@ I will try and keep this updated regularrly (more often when a new list has been
 
 I have no ads on this site so if you found this map helpful feel free to buy me a beer :)
 
-
- {% google_map width="100%" show_popup="false" zoom="10" %}
+<iframe src="https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74" width="640" height="480"></iframe>
