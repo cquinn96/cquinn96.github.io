@@ -110,7 +110,7 @@ Red Icon = Unavailable.</p>
 
 <p>Just because a hotel was available in the current Point Break list, doesn&#39;t mean it will be available next time, but it&#39;s a good indication what hotels might show up which is why I have included the unavailable hotels on the map too too.</p>
 
-<p>Technical details:</p>
+<p><em>Technical details</em></p>
 
 <p>I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable ones. Any time an update is required, I can run the script again and upload the output files.</p>
 

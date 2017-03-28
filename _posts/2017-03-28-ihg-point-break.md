@@ -12,13 +12,14 @@ Red Icon = Unavailable.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1peKGEbnhcfhgjVR8DvVVC60z-74" width="720" height="480"></iframe>
 
+
 If you click the icon on the top left of the map, you can select/deselect which categories you want to see (Remaining/Sold Out). In that pane you can also view a list of the hotels in each catorgory and click on them to bring you to it's location. There is also a buttion to view the map full screen.
 
 I will try and keep this map updated regularly (more often when a new list has been released).
 
 Just because a hotel was available in the current Point Break list, doesn't mean it will be available next time, but it's a good indication what hotels might show up which is why I have included the unavailable hotels on the map too too.
 
-Technical details:
+*Technical details*
 
 I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable ones. Any time an update is required, I can run the script again and upload the output files.
 
