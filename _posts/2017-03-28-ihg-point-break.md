@@ -20,10 +20,11 @@ Just because a hotel was available in the current Point Break list, doesn't mean
 
 Technical details:
 
-I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable set. Any time an update is needed to the data, I can run the script again and upload the output files.
+I created a Python script to collect the data from IHG, parse it and store it in a suitable format (CSV) to upload to Google Map Maker. The algorithm retreives the set of all hotels originally announced, A, the set of hotels currently available, B, and finds the relative complement of B in A (A \ B) - which is the unavailable hotels set. It then outputs to two CSV files, one containing the available hotels and the other containing the unavailable ones. Any time an update is required, I can run the script again and upload the output files.
 
-Future improvements include adding the hotel URL to each marker and possibly automating all manual work (although that may be overkill since the data doesnt update that frequently).
+Future improvements include adding the hotel URL to each marker and possibly automating all manual work (although that may be overkill since the data isn't updated _that_ frequently).
 
+<br/>
 <br/>
 I don't make any money from this website so if you found this map useful feel free to buy me a beer :)
 
