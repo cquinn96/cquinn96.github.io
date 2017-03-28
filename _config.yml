@@ -22,3 +22,9 @@ github:
   repo:           https://github.com/cquinn96/cquinn96.github.io
 
 pages_list:       {'About':'/about','Archive':'/archive'}
+
+gems:             [jekyll-maps]
+
+maps:
+  google:
+    api_key: ABC
