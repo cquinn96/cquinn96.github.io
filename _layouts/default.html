@@ -75,5 +75,9 @@
       </div>
     </div>
 
+    {% if jekyll.environment != 'dev' %}
+    {% include analytics.html %}
+    {% endif %}
+
   </body>
 </html>
